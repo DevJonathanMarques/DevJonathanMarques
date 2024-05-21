@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Jonathan Marques, Desenvolvedor web freelance e eterno estudante!
+## 👋 Olá, eu sou o Jonathan Marques, desenvolvedor web freelance e eterno estudante!
 
 Sou um desenvolvedor web freelance apaixonado por tecnologia. Estou sempre em busca de evoluir e aprender mais a cada dia.
 
